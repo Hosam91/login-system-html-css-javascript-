@@ -1,0 +1,18 @@
+body {
+  background-color: rgba(61, 59, 65, 0.644);
+}
+.container {
+  background-color: rgb(100, 101, 105);
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.welcome,
+#wrong,
+#validEmail,
+#validName,
+#validPswd {
+  display: none;
+}
